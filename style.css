@@ -20,6 +20,13 @@ header {
   text-shadow: 3px 3px 1px rgb(0, 0, 0);
 }
 
+section h2{
+  color: white;
+  text-align: center;
+  position: relative;
+  top: 20px;
+}
+
 /* Create two columns/boxes that floats next to each other */
 
 nav ul{
@@ -71,7 +78,9 @@ article p{
 article li a{
   color: white;
 }
-
+.section p{
+  color: white;
+}
 article a:hover{
   transition-duration: 500ms;
   transition-delay: 2ms;
